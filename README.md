@@ -5,24 +5,24 @@ This project is the work of myself and Georgina Karakasilioti and was created du
 
 # Makefile targets
 
-## make bayes
+### *make bayes*
 Compiles the Naive Bayes Classifier.
 
-## make knn
+### make knn
 Compiles the k-Nearest-Neighbours Classifier.
 
-## make runBayes
+### make runBayes
 Runs the Naive Bayes Classifier using *training.csv* for training data.
 
-## make runKnn
+### make runKnn
 Runs the k-Nearest-Neighbours Classifier using *training.csv* for training data.
 
 
-## make usageBayes
+### make usageBayes
 Prints usage message for the Naive Bayes Classifier.
 
-## make usageKnn
+### make usageKnn
 Prints usage message for the k-Nearest-Neighbours Classifier.
 
-## make clean
+### make clean
 Cleans the project.
